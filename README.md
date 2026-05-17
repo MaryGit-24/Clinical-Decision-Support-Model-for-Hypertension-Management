@@ -25,6 +25,22 @@ This raises two critical clinical questions:
 
 ---
 
+## Project Structure
+
+healthcare-analytics-project/
+
+│
+
+├── notebooks/ → Machine Learning notebooks (Random Forest Classifier)
+
+├── assets/ → Visuals (dashboard screenshots, model outputs, presentation)
+
+├── powerpoint_presentation ([structured executive-style presentation]([https://drive.google.com/file/d/1oTVWKHrvHAJoAtvlOmIowgl54abUct9j/view?usp=sharing](https://drive.google.com/file/d/1PZ1aG1DxE72M4E3851FHBU7p37K2Z7J5/view?usp=drive_link)))
+
+└── README.md
+
+---
+
 ## Project Objectives
 
 - Build a predictive model to identify patients at risk of treatment failure
